@@ -1,4 +1,5 @@
 .H-1{
+    width: 100%;
     height: 90px;
     background-color:#161635;
     color:white;
@@ -318,9 +319,10 @@ span{
  }
 
 .background2{
-    background-image: url(/img/background2.webp);
+    background-image: url(../img/background2.webp);
     width: 1349px;
     height: 496px;
+    margin: 0 auto;
 }  
 
 .h1-s4{
